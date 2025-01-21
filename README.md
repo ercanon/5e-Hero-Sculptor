@@ -1,5 +1,5 @@
 # 5e-Hero-Sculptor WIP
-D&amp;D 5e Web-based Character Creator with BG3-inspired Interface and User Experience, developed with Unity Engine 6
+D&amp;D 5e Web-based Character Creator with BG3-inspired Interface and User Experience, developed with Unity 6 Engine
 ### Features
  - Web-based
  - Build Planner
